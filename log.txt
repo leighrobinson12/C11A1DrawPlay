@@ -1,0 +1,97 @@
+commit 0a637ec0b776d42eb150b44cc43409bfdf3d414e
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 13:30:16 2020 -0700
+
+    Cats mouth is now taller than it was - LR
+
+commit 86ece012144e3d424853bb2b4dc5aca61a5f9d74
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:29:09 2020 -0700
+
+    Cat eyes are now wider than they are tall -LS
+
+commit e44159fb079c6431faf5dd2b75f875892eb3767f
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 13:28:13 2020 -0700
+
+    Make cat's head bigger - LR
+
+commit ca9e91d743a2b14e8618b8de4d53ebff004c44fc
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:27:14 2020 -0700
+
+    Cat's eyes are now taller -LS
+
+commit b4a840cb529c0f2c9def580a8eb9bc22e79866d3
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 13:26:04 2020 -0700
+
+    Commit after saving all changes - cat's mouth cyan again - LR
+
+commit f211d489879befad96ef74c901f3dca49db3454e
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 13:22:06 2020 -0700
+
+    Cat has a cyan mouth - LR
+
+commit 4fda4de1eabfa64328691110c5f0c9ed8278fe46
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:20:42 2020 -0700
+
+    Rest of making the cat have red eyes.
+
+commit e3b80c2a538588e05c965278aa726548d039d1da
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:17:18 2020 -0700
+
+    Cat now had red eyes - is albino
+
+commit acfb80ec3fd1edd04ebea9181057a5cf5b48778b
+Merge: fd54d47 705380f
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:15:40 2020 -0700
+
+    Merge branch 'master' of https://github.com/leighrobinson12/C11A1DrawPlay
+
+commit 705380fe17cef664152fc128a4bce3723f6bfadd
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 13:15:12 2020 -0700
+
+    Cat purrs - LR
+
+commit fd54d470e05b0f84101fe6d65faf74b4c20dc6ff
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:09:46 2020 -0700
+
+    forgot the .gitignore somehow
+
+commit 8d5c0232db7ab61cf1704893fd90fd51974198bd
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:09:10 2020 -0700
+
+    Kitty is white now
+
+commit 9d74b170cbe2470364e33c1b0165ff7bc48c82f9
+Merge: 1e6fffe d4820d4
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 13:05:04 2020 -0700
+
+    Initial commit I think
+
+commit d4820d4baeafdfb13940bda07254c37c2bbd9977
+Author: Leigh Robinson <leighrobinson@mymail.mines.edu>
+Date:   Thu Feb 13 12:58:52 2020 -0700
+
+    Commit before pushing onto repository
+
+commit 1e6fffea418d2f09b5bedd063095e0b3a0149d4a
+Author: Liam Stacy <liamstacy@mymail.mines.edu>
+Date:   Thu Feb 13 12:58:48 2020 -0700
+
+    Initial commit before push
+
+commit f08efee07599a25a7be64d7773b824d100644965
+Author: Leigh Robinson <60125576+leighrobinson12@users.noreply.github.com>
+Date:   Thu Feb 13 12:41:14 2020 -0700
+
+    Initial commit
